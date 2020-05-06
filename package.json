@@ -1,0 +1,12 @@
+{
+  "name": "node-empty-server",
+  "version": "1.0.0",
+  "description": "Node empty server",
+  "main": "index.js",
+  "scripts": {
+    "build": "",
+    "start": "node server.js"
+  },
+  "license": "MIT",
+  "private": false
+}
